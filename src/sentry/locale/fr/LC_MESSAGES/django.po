@@ -2525,7 +2525,7 @@ msgstr "Certains champs ne sont pas valides. Veuillez corriger les erreurs et r�
 
 #: web/frontend/error_page_embed.py:25
 msgid "Your feedback has been sent. Thank you!"
-msgstr ""
+msgstr "Votre retour utilisateur a été envoyé. Merci !"
 
 #: web/frontend/error_page_embed.py:30
 msgid "Jane Doe"
